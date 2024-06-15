@@ -1,6 +1,6 @@
 # StudyOasis
 ![Logo](Images/StudyOasis.png)
-Project by Sara Sorrentino & Andrea Villarreal for _Hardware & Software Technologies for Design_ (September 2022 - January 2023).
+Project by [Sara Sorrentino](https://www.linkedin.com/in/sarasorrentino28/) & [Andrea Villarreal](https://www.linkedin.com/in/andreavillarreale-98/) for _Hardware & Software Technologies for Design_ (September 2022 - January 2023).
 
 ## Project Overview
 The purpose of this product is to help students and workers concentrate on their tasks by blocking the distractions caused by smartphone use.
