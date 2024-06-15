@@ -26,13 +26,21 @@ The application let the user set up their own preferences for the study session 
 
 ## The Software
 ![Logo](Images/TheSoftware.png)
+The whole experience is managed by a state machine structured as follows:
+- WELCOME: starting state which displays the welcome light animation;
+- WAIT: waiting until the next action is sent from the application;
+- WAITFORCARD: wait for the user to give his preferences through the card;
+- WRITECARD: overwrites preferences on user's card;
+- DETECT: checks for the phone & other sensors values;
+- INCREASE_STEP: state for controlling the progress of the status bar;
+- RESETSESSION: cancel the current sessions.
 
 ## The Final Product
 Consists of an inner box that retains the Arduino in place and an external box in which: 
 The phone can be placed and senses the presence of it
-The progress bar can be seen, indicating the time passed in the study session
-A LED light indicates if conditions are well (green) or there is something wrong (red) 
-A decorative palm plant :) 
+The progress bar can be seen, indicating the time passed in the study session:
+- A LED light indicates if conditions are well (green) or there is something wrong (red) 🚨
+- A decorative palm plant 🌴 
 
 ![Logo](Images/FinalProduct.png)
 
