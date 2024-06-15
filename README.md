@@ -18,13 +18,13 @@ An alarm will also sound if the ambient temperature is not in line with the user
 ![Logo](Images/Storyboard.png)
 
 ## The Application
-![Logo](Images/The Application.png)
+![Logo](Images/TheApplication.png)
 
 ## The Hardware 
-![Logo](Images/The Hardware.png)
+![Logo](Images/TheHardware.png)
 
 ## The Software
-![Logo](Images/The Software.png)
+![Logo](Images/TheSoftware.png)
 
 ## The Final Product
 Consists of an inner box that retains the Arduino in place and an external box in which: 
@@ -33,6 +33,6 @@ The progress bar can be seen, indicating the time passed in the study session
 A LED light indicates if conditions are well (green) or there is something wrong (red) 
 A decorative palm plant :) 
 
-![Logo](Images/Final Product.png)
+![Logo](Images/FinalProduct.png)
 
 Check out the final presentation [video](https://polimi365-my.sharepoint.com/personal/10947355_polimi_it/_layouts/15/stream.aspx?id=%2Fpersonal%2F10947355%5Fpolimi%5Fit%2FDocuments%2FFinal%20Video%20Study%20Oasis%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3e36d61b%2D9d96%2D4b80%2D8f6f%2D95cf6fbb759a)!
